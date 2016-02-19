@@ -1,0 +1,7 @@
+Goals:
+
+1) Identify eyes in single frame of video
+2) Identify other facial features in single frame of video (Iris, Nose, mouse) 
+3) Relate features to predict subject's focus of vision
+4) Make code very efficient, so this can be done in real time across video frames
+5) Improve estimation and take in to account temporal dimension
